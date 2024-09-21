@@ -28,3 +28,4 @@ A compiler designed for our proposed programming language, D'Tilapia, inspired b
 - Upload code files for compilation.
 - Create and save new code files.
 - Export a table of lexemes.
+- Display syntax analyzer.
